@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[E.T. Metal Works]]></title>
+        <description><![CDATA[E.T. Metal Works]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 May 2016 20:05:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Make an Outdoor Gas Fireplace]]></title>
+            <description><![CDATA[<article><h1>How to Make an Outdoor Gas Fireplace</h1><p>How to Make an Outdoor Gas Fireplace with DIY Pete. This gas fire pit project is made of concrete. Gas fireplaces of this category can cost thousands of dollars and take a lot of time to build. Building your own outdoor gas fireplace out of concrete will save you time and money.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=YgcYPYHYTJ8&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">c266b7f1-7f87-4f73-92ce-12620be2c25d</guid>
+            <pubDate>Sat, 28 May 2016 20:04:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
