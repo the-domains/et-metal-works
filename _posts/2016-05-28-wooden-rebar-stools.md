@@ -1,0 +1,27 @@
+---
+datePublished: '2016-05-31T20:18:21.771Z'
+sourcePath: _posts/2016-05-28-wooden-rebar-stools.md
+author: []
+dateModified: '2016-05-31T20:17:39.423Z'
+title: Wooden Rebar Stools
+description: $220
+starred: false
+inFeed: true
+hasPage: true
+inNav: false
+url: wooden-rebar-stools/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+![$220](https://the-grid-user-content.s3-us-west-2.amazonaws.com/731c8ee3-dfe9-4ea4-81d4-48c7d81c71a2.jpg)
+
+$220
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="\_top"\>   
+<input type="hidden" name="cmd" value="\_s-xclick"\>   
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----   
+"\>   
+<input type="image" src="https://www.paypalobjects.com/en\_US/i/btn/btn\_buynowCC\_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"\>   
+<img alt="" border="0" src="https://www.paypalobjects.com/en\_US/i/scr/pixel.gif" width="1" height="1"\>   
+</form\>
